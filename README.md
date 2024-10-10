@@ -109,5 +109,5 @@ $totalbayar=$subtotal-$diskon;
 </body>
 </html>
 
- Gua pusing cun mau tidur aja
+ Gua pusing cun mau tidur aja skarang mau gmana bjir
  
